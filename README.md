@@ -1,10 +1,10 @@
 # VQC_Aircraft_Classification
 
 
-Hava araçlarının, kuantum-klasik hibrit model ile sınıflandırılması çalışmasıdır. PennyLane kütüphanesi ile Tensorflow kütüphanelerinden yararlanılmıştır.
-Hibrit modellerinden biri olan VQC yöntemi kullanıldı.
+Bu çalışmada uçak, drone ve helikopter gibi hava araçlarını sınıflandırmak için kuantum-klasik hibrit bir model geliştirmek amaçlandı.
+Sınıflandırma işleminde PennyLane ve TensorFlow kütüphaneleri başta olmak üzere yararlanıldı. 
+Hibrit modellerden biri olan Varyasyonel Kuantum Sınıflandırıcı (VQC) yöntemi uygulanmıştır.
 
+İlgili PennyLane dokümantasyonu: https://docs.pennylane.ai/en/stable/introduction/circuits.html
 Veri setine şuradan ulaşabilirsiniz: https://www.kaggle.com/datasets/llpukojluct/aerial-vehicle-detection-dataset
 
-
-![image](https://github.com/user-attachments/assets/6bc37e8e-60d6-4864-b82a-87772cab7746)
