@@ -6,5 +6,6 @@ Sınıflandırma işleminde PennyLane ve TensorFlow kütüphaneleri başta olmak
 Hibrit modellerden biri olan Varyasyonel Kuantum Sınıflandırıcı (VQC) yöntemi uygulanmıştır.
 
 İlgili PennyLane dokümantasyonu: https://docs.pennylane.ai/en/stable/introduction/circuits.html
+
 Veri setine şuradan ulaşabilirsiniz: https://www.kaggle.com/datasets/llpukojluct/aerial-vehicle-detection-dataset
 
